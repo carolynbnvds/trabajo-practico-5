@@ -3,7 +3,7 @@
 ## 👤 Información del Alumno
 
 ### 📋 Datos Personales
-- **Nombre y Apellido**: Diego Aubone
+- **Nombre y Apellido**: Carolyn Benavides Mendoza 
 - **Ciclo Lectivo**: 2025
 - **Carrera**: Ingenieria Informatica
 
